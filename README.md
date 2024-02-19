@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jfuchs2
+- 👋 Hi, I’m @jfox98
 - 👀 I’m interested in everything that is good for human and the world!
 - 🌱 I’m currently learning to get a pro developer in C++!
 - 💞️ I’m looking to collaborate on some projects, like AI skripts!
